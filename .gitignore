@@ -1,0 +1,7 @@
+src/**/packages/**
+src/**/bin/**
+src/**/obj/**
+coverage/**
+
+TestResult.xml
+.vs/**
