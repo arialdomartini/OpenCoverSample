@@ -4,4 +4,4 @@ src/**/obj/**
 coverage/**
 
 TestResult.xml
-.vs/**
+.vs
